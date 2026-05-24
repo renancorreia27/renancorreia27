@@ -21,4 +21,4 @@ Atualmente, sigo evoluindo através de projetos, estudos e novos desafios na ár
   <a href="https://www.linkedin.com/in/renanmachadocorreia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-![snake animation](https://github.com/renancorreia27/renancorreia27/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/renancorreia27/renancorreia27/output/github-contribution-grid-snake.svg)
