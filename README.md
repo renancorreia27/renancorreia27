@@ -1,6 +1,6 @@
 ## Olá!! Me chamo Renan Machado, muito prazer!
 
-Sou studante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end, APIs e desenvolvimento web. Tenho experiência prática com Python, Django, banco de dados e construção de sistemas voltados para resolução de problemas reais.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end, APIs e desenvolvimento web. Tenho experiência prática com Python, Django, banco de dados e construção de sistemas voltados para resolução de problemas reais.
 
 Atualmente, sigo evoluindo através de projetos, estudos e novos desafios na área de tecnologia.
 
