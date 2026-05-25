@@ -2,16 +2,9 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end, APIs e desenvolvimento web. Tenho experiência prática com Python, Django, banco de dados e construção de sistemas voltados para resolução de problemas reais.
 
-Atualmente, sigo evoluindo através de projetos, estudos e novos desafios na área de tecnologia.
+Atualmente, sigo evoluindo através de projetos, estudos e novos desafios na área de tecnologia. 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,mysql)](https://skillicons.dev)
 
 ##
 
